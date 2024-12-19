@@ -109,10 +109,7 @@
         src="https://github-readme-stats.vercel.app/api?username=sagar-deep-saha&show_icons=true&theme=radical"
         alt="sagar-deep-saha" /></p> -->
 
-<!-- Clarity Comment -->
-
 <br>
-
 
 <!-- <p>&nbsp;<img align="center" style="height:220px;width:100%;"
         src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-deep-saha&theme=radical"
