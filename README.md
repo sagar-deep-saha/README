@@ -62,15 +62,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="mongodb"width="40" height="40" />
 </p>
 
-<hr>
-
 
 <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40"
                 height="40" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
         <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+                src="laravel-svgrepo-com.svg"
                 alt="laravel" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
