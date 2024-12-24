@@ -64,4 +64,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-deep-saha&show_icons=true&locale=en&layout=compact" alt="SagarDeepSaha" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-deep-saha&show_icons=true&locale=en" alt="SagarDeepSaha" /></p>
-(https://github-readme-streak-stats.herokuapp.com/?user=sagar-deep-saha&)
+https://github-readme-streak-stats.herokuapp.com/?user=sagar-deep-saha&
