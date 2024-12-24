@@ -62,8 +62,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="mongodb"width="40" height="40" />
 </p>
 
-<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-deep-saha&show_icons=true&locale=en&layout=compact" alt="SagarDeepSaha" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-deep-saha&show_icons=true&locale=en" alt="SagarDeepSaha" /></p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-deep-saha&" />
-</div>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-deep-saha&" /></p>
