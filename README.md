@@ -78,7 +78,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
         alt="mongodb" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40" />
-    <img src="laravel-svgrepo-com.svg" alt="laravel" width="40" height="40" />
+    <img src="laravel-svgrepo-com.svg" style="color:red;" alt="laravel" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
         alt="nodejs" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
