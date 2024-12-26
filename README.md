@@ -11,7 +11,7 @@
 
 - 📈 I’m currently learning **Laravel**
 
-- 📑 All of my projects are available at LinkedIn and GitHub
+- 📑 All of my projects are available at **LinkedIn** and **GitHub**
 
 - 🗨️ Ask me about **JavaScript , PHP , MySQL**
 
