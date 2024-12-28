@@ -108,7 +108,7 @@
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=sagar-deep-saha&show_icons=true&theme=radical"
         alt="SagarDeepSaha" /></p>
-<p>&nbsp;<img align="center"
+<p>&nbsp;<img align="center" style="width:100%;"
         src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-deep-saha&theme=radical"
         alt="SagarDeepSaha" /></p>
 
