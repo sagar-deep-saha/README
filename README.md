@@ -91,11 +91,11 @@
 </p>
 
 
-<p><img align="left" style="height:150px;width:28%;"
+<p><img align="left" style="height:150px;"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-deep-saha&show_icons=true&locale=en&layout=compact"
         alt="SagarDeepSaha" /></p>
         
-<p>&nbsp;<img align="center" style="height:150px;width:28%;"
+<p>&nbsp;<img align="center" style="height:150px;"
         src="https://github-readme-stats.vercel.app/api?username=sagar-deep-saha&show_icons=true&locale=en"
         alt="SagarDeepSaha" /></p>
 
@@ -110,7 +110,7 @@
         alt="SagarDeepSaha" /></p> -->
 
 
-<p>&nbsp;<img align="right" style="height:150px;width:28%;"
+<p>&nbsp;<img align="right" style="height:150px;"
         src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-deep-saha&theme=radical"
         alt="SagarDeepSaha" /></p>
 
