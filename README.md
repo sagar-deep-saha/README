@@ -102,6 +102,9 @@
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=sagar-deep-saha&show_icons=true&theme=radical"
         alt="SagarDeepSaha" /></p>
+<p>&nbsp;<img align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-deep-saha&theme=radical"
+        alt="SagarDeepSaha" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-deep-saha&" alt="SagarDeepSaha" /></p> -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagar-deep-saha&theme=radical)
 <p>&nbsp;<img align="center" src="download.svg" alt="SagarDeepSaha" /></p>
