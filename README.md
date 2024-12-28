@@ -110,7 +110,7 @@
         alt="SagarDeepSaha" /></p> -->
 
 
-<p>&nbsp;<img align="center" style="height:150px;"
+<p>&nbsp;<img align="center" style="height:150px;width:100%;"
         src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-deep-saha&theme=radical"
         alt="SagarDeepSaha" /></p>
 
