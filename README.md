@@ -6,8 +6,8 @@
     src="https://4.bp.blogspot.com/-VUgxF99T8VA/W7ykCpkd4eI/AAAAAAAAACA/kfyH6QXSwmkToQS23La7ZiXfXKM2MPoaACLcBGAs/s1600/web%2Bdev%2B1.png">
 
 <p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=officialdeepsaha&label=Profile%20views&color=0e75b6&style=flat"
-        alt="officialdeepsaha" /> </p>
+        src="https://komarev.com/ghpvc/?username=sagardeepsaha&label=Profile%20views&color=0e75b6&style=flat"
+        alt="sagar-deep-saha" /> </p>
 
 - 📈 I’m currently learning **Laravel**
 
