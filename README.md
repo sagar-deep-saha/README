@@ -1,4 +1,5 @@
-![logo](https://media.licdn.com/dms/image/v2/D5616AQGWsvblpHvBfg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715615362097?e=1736985600&v=beta&t=Y8jkEOqaOQ07RxIEiV3KOAbiBO04hhnOd9FfWCRn-Zc)
+<!-- ![logo](https://media.licdn.com/dms/image/v2/D5616AQGWsvblpHvBfg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715615362097?e=1736985600&v=beta&t=Y8jkEOqaOQ07RxIEiV3KOAbiBO04hhnOd9FfWCRn-Zc) -->
+![logo](banner.png)
 <h1 align="center">Sagar Deep Saha</h1>
 <h3 align="center">Software Developer & System Engineer</h3>
 
