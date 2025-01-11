@@ -16,7 +16,7 @@
 
 - 🗨️ Ask me about **JavaScript , PHP , MySQL**
 
-- 📧 How to reach me **mail.sagarsaha@gmail.com**
+- 📧 How to reach me **linked.in/sagar-deep-saha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
